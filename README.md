@@ -10,11 +10,11 @@ La propuesta será del CRM Zoho One, a continuación las razones:
    \-Usa una interfaz alojada en la nube fácil de acceder.  
    \-En caso de crecer la empresa ofrece una gran escalabilidad.  
    \-Para la solicitud de etiquetas personalizadas, Zoho One cuenta con esta funcionalidad.   
-   \- Su rango de precios es de 0€/mes, 14/mes, 37/mes y 60/mes. En este caso se recomienda el plan de medio de 37/mes ya que ofrece todo lo necesario(50+ aplicaciones, automatizacion, analiticas, soporte estandar).  
+   \- Su rango de precios es de 0€/mes, 14/mes, 40/mes y 60/mes. En este caso se recomienda el plan de medio de 37/mes ya que ofrece todo lo necesario(50+ aplicaciones, automatizacion, analiticas, soporte estandar).  
    \-Además es fácil de empezar para principiantes y tiene aplicación móvil,  
    \-No es necesario tener un equipo de IT pendiente para su uso.  
 2. Cálculo de TCO:  
-   \-Coste de suscripción es de 37/mes  
+   \-Coste de suscripción es de 40/mes  
    \-El coste de implementación sería de una implementación inicial de 140h a 50€/h para la migración de datos y formación inicial.  
    \-No hace falta contratar un servicio de cloud al usar el propio de Zoho.  
    
