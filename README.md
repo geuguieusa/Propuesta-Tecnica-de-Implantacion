@@ -15,7 +15,7 @@ La propuesta será del CRM Zoho One, a continuación las razones:
    \-No es necesario tener un equipo de IT pendiente para su uso.  
 2. Cálculo de TCO:  
    \-Coste de suscripción es de 37/mes  
-   \-El coste de implementación sería de una implementación inicial de 120h a 45€/h para la migración de datos y formación inicial.  
+   \-El coste de implementación sería de una implementación inicial de 140h a 50€/h para la migración de datos y formación inicial.  
    \-No hace falta contratar un servicio de cloud al usar el propio de Zoho.  
    
 
