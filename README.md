@@ -56,9 +56,9 @@ volumes:
   pg\_data:
 ```
 **comando para realizar un backup de la base de datos PostgreSQL.**
-
+```
 docker exec \-t aljarafe\_db pg\_dump \-U aljarafe\_admin \-d aljarafe \-F c \-f /backups/aljarafe\_$(date \+%Y%m%d).dump
-
+```
 ## 
 
 ## Referencias 
