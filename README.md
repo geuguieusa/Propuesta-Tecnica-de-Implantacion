@@ -70,6 +70,3 @@ docker exec \-t aljarafe\_db pg\_dump \-U aljarafe\_admin \-d aljarafe \-F c \-f
 
 \[3\] “Etiquetas.” [https://help.zoho.com/portal/es/kb/projects/settings-in-zoho-projects/portal-configuration/articles/etiquetas\#Enable\_Tags](https://help.zoho.com/portal/es/kb/projects/settings-in-zoho-projects/portal-configuration/articles/etiquetas#Enable_Tags)  (accessed May 11, 2026).
 
-[https://github.com/sbofirov/Zoho/blob/master/docker-compose.yml](https://github.com/sbofirov/Zoho/blob/master/docker-compose.yml)
-
-[https://serverspace.io/es/support/help/how-to-backup-and-restore-in-a-postgresql/](https://serverspace.io/es/support/help/how-to-backup-and-restore-in-a-postgresql/) 
