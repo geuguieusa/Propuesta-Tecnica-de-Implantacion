@@ -25,8 +25,8 @@ La propuesta será del CRM Zoho One, a continuación las razones:
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | Administración | Permiso total | Permiso total | Permiso total | Permiso total | Permiso total | Permiso total |
 | Comercial | Solo lectura  | Solo lectura | Sin acceso | Sin acceso | Lectura | Sin acceso |
-| Operario de Almacén  | Sin acceso | Sin acceso | Puede ver y modificar | Puede ver | Sin acceso | Sin acceso |
-| Contable | Lectura | Lectura | Solo lectura | Puede ver | Lectura y puede modificarlo | Sin acceso |
+| Operario de Almacén  | Sin acceso | Sin acceso | Lectura y modificar | Lectura | Sin acceso | Sin acceso |
+| Contable | Lectura | Lectura | Solo lectura | Lectura | Lectura y puede modificarlo | Sin acceso |
 
 # 
 
