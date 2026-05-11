@@ -55,6 +55,9 @@ Teniendo en cuenta la norma ISO/IEC 26514, y usando Zoho One \+ PostgreSQL.
 volumes:  
   pg\_data:
 ```
+
+Por qué lo elegí: con un solo archivo y un solo comando (docker compose up -d), cualquier técnico levanta el sistema idéntico en cualquier máquina. Si el servidor cae, recuperarlo son 30 segundos.
+
 **comando para realizar un backup de la base de datos PostgreSQL.**
 ```
 docker exec \-t aljarafe\_db pg\_dump \-U aljarafe\_admin \-d aljarafe \-F c \-f /backups/aljarafe\_$(date \+%Y%m%d).dump
