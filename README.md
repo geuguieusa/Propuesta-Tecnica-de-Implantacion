@@ -40,9 +40,8 @@ Teniendo en cuenta la norma ISO/IEC 26514, y usando Zoho One \+ PostgreSQL.
 	postgres:  
 		image: postgres: 16-alpine  
 		container \_name: aljarafe\_db  
-		restart:  
+		restart:  unless-stopped
 		depends on:  
-		enviroment  
 			POSTGRES\_DB: aljarafe  
 			  POSTGRES\_USER: aljarafe\_admin  
 			  POSTGRES\_PASSWORD: ${DB\_PASSWORD}
