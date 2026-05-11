@@ -1,7 +1,7 @@
 # Análisis de Mercado y Selección:
-<img width="339" height="149" alt="image" src="https://github.com/user-attachments/assets/ac772943-02f7-4db9-90e7-a877f7264d05" />
 
 La propuesta será del CRM Zoho One, a continuación las razones:
+<img width="339" height="149" alt="image" src="https://github.com/user-attachments/assets/11ced9ba-cc9e-4697-8217-8bf147378ac4" />
 
 1. (25 empleados, presupuesto ajustado, necesidad de personalización en el etiquetado).  
      
