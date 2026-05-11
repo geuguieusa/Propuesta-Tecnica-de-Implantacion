@@ -35,7 +35,7 @@ Diseña la matriz de permisos para los siguientes roles, asegurando el **Princip
 # Documentación de Explotación
 
 Teniendo en cuenta la norma ISO/IEC 26514, y usando Zoho One \+ PostgreSQL.
-
+``
  services:  
 	postgres:  
 		image: postgres: 16-alpine  
@@ -55,7 +55,7 @@ Teniendo en cuenta la norma ISO/IEC 26514, y usando Zoho One \+ PostgreSQL.
 
 volumes:  
   pg\_data:
-
+``
 **comando para realizar un backup de la base de datos PostgreSQL.**
 
 docker exec \-t aljarafe\_db pg\_dump \-U aljarafe\_admin \-d aljarafe \-F c \-f /backups/aljarafe\_$(date \+%Y%m%d).dump
