@@ -22,6 +22,7 @@ La propuesta será del CRM Zoho One, a continuación las razones:
 
 # Diseño de Seguridad RBAC 
 
+Hicimos la division de permiso en una sola tabla dividida en roles/sectores, manteniendo el Principio de Mínimo Privilegio para garantizar la seguridad al usuario. 
 | Permisos | Clientes | Presupuesto | Stock | Albaranes entrada/salida | Factura | Administración |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | Administración | Permiso total | Permiso total | Permiso total | Permiso total | Permiso total | Permiso total |
